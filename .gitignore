@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Docker ###
+docker/tempo/tempo-data/
+mysql-data/
+
+docker/tempo/tempo-data/**
+mysql-data/**
+
